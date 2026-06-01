@@ -1,0 +1,5 @@
+Giải thích các câu lệnh:
+1. git init : Khởi tạo git - tạo ra ba vùng lưu trữ (ba trạng thái của git) - tất cả các file ban đầu ở vùng Working Directory 
+2. git add <file_name> : Đưa file có tên <file_name> từ Working Directory qua Staging
+3. git add . : Đưa tất cả các file có thay đổi mới từ Working Directory qua Staging
+3. git commit -m "message" : Commit các file từ Staging vào Repository. Các phiên bản mới nhất sẽ nằm bên trên các phiên bản trước đó.

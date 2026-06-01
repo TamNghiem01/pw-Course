@@ -67,7 +67,7 @@
 
 ```
 
-**Commit convention**: Đặt tên commit cho đẹp
+**Commit convention**: Đặt tên commit cho đẹp  
 Type: Short_description 
 - Type: Loại commit
     - Chore: Sửa nhỏ lẻ, chính tả, xóa file không dùng

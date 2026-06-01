@@ -1,0 +1,17 @@
+a. Tạo 3 file: file1, file2, file3 
+    => Cả 3 file đang ở vùng local 
+
+b. Chạy lệnh: git init 
+    => Cả 3 file đang ở vùng Working Directory
+
+c. Chạy lệnh: git commit -m "init project" 
+    => Cả 3 file vẫn ở vùng Working Directory
+
+d. Chạy lệnh: git add file1
+    => file1 được chuyển vào Staging, file2 và file3 vẫn ở vùng Working Directory
+
+e. Chạy lệnh: git commit -m "add file1"
+    => file1 được commit vào Repository, file2 và file3 vẫn ở vùng Working Directory
+
+f. Chạy lệnh: git commit -m "add file"
+    => file1 ở Repository, file2 và file3 vẫn ở vùng Working Directory. Không có thay đổi nào cả
