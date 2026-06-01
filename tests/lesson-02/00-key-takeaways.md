@@ -102,7 +102,7 @@ Type: Short_description
 
 ### ✅ Lesson #3: JavaScript 1
 
-**1. In ra một dùng chữ**: 
+**1. In ra một dòng chữ**: 
 ```JavaScript
     console.log("Hello word")
 ```
